@@ -8,6 +8,10 @@ body {
   background-color: #d9dcd6;
 }
 
+p {
+  font-size: 16px;
+}
+
 header {
   padding: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -38,10 +42,6 @@ header li {
 header a {
   color: #ffffff;
   text-decoration: none;
-}
-
-p {
-  font-size: 16px;
 }
 
 /* dont see a reason to move the iamge to html since its being used in the background command here */
@@ -115,12 +115,10 @@ p {
   max-width: 150px;
 }
 
+/* removed the both option since it allows for the footer to take up less space */
 footer {
   padding: 30px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: center;
-}
-
-footer h2 {
   font-size: 20px;
 }
