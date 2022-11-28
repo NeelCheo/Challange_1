@@ -4,6 +4,16 @@
   margin: 0;
 }
 
+.float-left {
+  float: left;
+  margin-right: 25px;
+}
+
+.float-right {
+  float: right;
+  margin-left: 25px;
+}
+
 body {
   background-color: #d9dcd6;
 }
@@ -54,16 +64,7 @@ header a {
   background-position: center;
 }
 
-.float-left {
-  float: left;
-  margin-right: 25px;
-}
-
-.float-right {
-  float: right;
-  margin-left: 25px;
-}
-
+/* main middle area that contain information below the main background image of the website */
 .area-main{
   width: 75%;
   display: inline-block;
@@ -88,6 +89,7 @@ header a {
   font-size: 36px;
 }
 
+/* are to the right side that contains information below the main background image */
 .area-side {
   margin-right: 20px;
   padding: 20px;
