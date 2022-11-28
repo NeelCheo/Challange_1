@@ -1,5 +1,5 @@
-# Challange_1
-Week 1 Challange
+# Challenge_1
+Week 1 Challenge
 
 In this repository it contain an edited version of a website mainly in the apects of code optimization and organization.
 
@@ -14,4 +14,4 @@ during the resizing of the website to either large or really small monitors such
 and so were ignored
 
 Website Link:
-Repository Link:
+Repository Link: https://github.com/NeelCheo/neel_challenge_1.git
