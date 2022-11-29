@@ -13,5 +13,5 @@ I also allowed for the future editing of this website to be multiplatform with t
 during the resizing of the website to either large or really small monitors such as split screen or wide screen were not specified for the conditions of this assignment
 and so were ignored
 
-Website Link:
+Website Link: https://neelcheo.github.io/neel_challenge_1/
 Repository Link: https://github.com/NeelCheo/neel_challenge_1.git
